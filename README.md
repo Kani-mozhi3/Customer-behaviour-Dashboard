@@ -11,7 +11,7 @@ The aim is to demonstrate an end‑to‑end analytics workflow that is suitable 
 ## 📂 Dataset Description
 The dataset represents e‑commerce customer transactions and demographics.
 
-- < a href="   "> Dataset </a>​
+- < a href="https://github.com/Kani-mozhi3/Customer-behaviour-Dashboard/blob/main/customer%20shopping%20data.csv"> Dataset </a>​
 
 Typical fields include:
 
