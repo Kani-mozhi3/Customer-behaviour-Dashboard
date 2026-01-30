@@ -86,7 +86,7 @@ These visuals allow users to explore who the key customers are and which segment
 
 ## Dashboard in Power BI
 
-Finally,we built an interactive dashboard in Powerbi to present insights visually.
+Finally,Built an interactive dashboard in Powerbi to present insights visually.
 
 <img width="938" height="763" alt="Customer behaviour" src="https://github.com/user-attachments/assets/02dd77bc-8c1b-4d7b-8e3e-8d1f6ae33b05" />
 
