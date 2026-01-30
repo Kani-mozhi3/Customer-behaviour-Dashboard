@@ -50,3 +50,46 @@ The Customer Behavior Dashboard includes:
 - Visuals for total sales and total revenue by age_group.
 
 These visuals allow users to explore who the key customers are and which segments drive revenue.
+
+
+## 🔁 Project Workflow
+
+### 1.Data Loading
+
+- Create tables in SQL Server and import the raw customer dataset (CSV/Excel).
+
+- Validate row counts, data types, and basic constraints after loading.
+
+### 2.Data Cleaning & Preparation
+
+- Handle missing values for review ratings, purchase amounts, and demographics.
+
+- Standardize category, shipping type, and subscription labels.
+
+- Create calculated fields such as age_group or customer segments if needed.
+
+### 3.SQL Analysis
+
+- Write queries to calculate key metrics: total customers, average purchase, revenue by category, and revenue by age_group.
+​
+
+- Build views/stored procedures that serve as clean, reusable data sources for Power BI.
+
+### 4.Power BI Modeling & Visualization
+
+- Connect Power BI to SQL Server views.
+
+- Create DAX measures for KPIs (e.g., Average Purchase Amount, Average Rating, Revenue by Segment).
+
+- Design and format the Customer Behavior Dashboard shown in the image.
+
+
+## Dashboard in Power BI
+
+Finally,we built an interactive dashboard in Powerbi to present insights visually.
+
+<img width="938" height="763" alt="Customer behaviour" src="https://github.com/user-attachments/assets/02dd77bc-8c1b-4d7b-8e3e-8d1f6ae33b05" />
+
+
+
+
