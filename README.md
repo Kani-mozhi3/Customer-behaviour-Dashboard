@@ -90,6 +90,11 @@ Finally,we built an interactive dashboard in Powerbi to present insights visuall
 
 <img width="938" height="763" alt="Customer behaviour" src="https://github.com/user-attachments/assets/02dd77bc-8c1b-4d7b-8e3e-8d1f6ae33b05" />
 
+## 🚀 How Recruiters Can Use This
+- Review my practical SQL skills (data modeling, cleaning, and aggregation).
 
+- Evaluate how I translate business questions into KPIs and visual insights in Power BI.
+​
+- See a complete mini‑project that mirrors real‑world e‑commerce analytics work.
 
 
